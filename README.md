@@ -1,16 +1,66 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**noaxPP/noaxPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>👋 Hi, I'm Pepe</h1>
 
-Here are some ideas to get you started:
+  <p>
+    A student who loves learning <strong>programming</strong> and understanding how things work under the hood.
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+    🚀 Learning by building real projects <br>
+    🧠 Not copying code – understanding it
+  </p>
+
+</div>
+
+---
+
+<h2>🧩 About Me</h2>
+
+<ul>
+  <li>📚 Student interested in programming</li>
+  <li>💻 Currently learning Python & JavaScript</li>
+  <li>🔐 Interested in backend development & cybersecurity</li>
+  <li>🛠️ I build small projects to really understand concepts</li>
+</ul>
+
+---
+
+<h2>⚙️ Technologies & Tools</h2>
+
+<ul>
+  <li>Python</li>
+  <li>JavaScript (Node.js basics)</li>
+  <li>Git & GitHub</li>
+  <li>HTML & CSS (basics)</li>
+</ul>
+
+---
+
+<h2>📌 Current Projects</h2>
+
+<ul>
+  <li>🧮 Physics Calculator (school formulas, continuously updated)</li>
+  <li>🎬 Learning animations with Manim</li>
+  <li>🧠 Small backend & logic projects</li>
+</ul>
+
+---
+
+<h2>🎯 Goals</h2>
+
+<ul>
+  <li>Understand programming fundamentals deeply</li>
+  <li>Build a strong base for cybersecurity</li>
+  <li>Learn how real software systems work</li>
+</ul>
+
+---
+
+<div align="center">
+
+  <p>
+    ⭐ Always learning. Always improving.
+  </p>
+
+</div>
