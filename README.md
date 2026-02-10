@@ -43,7 +43,7 @@
 <h2>📚 Currently Learning</h2>
 
 <ul>
-  <li>🐍 Python (logic, automation, Manim)</li>
+  <li>🐍 Python (logic, automation)</li>
   <li>🌐 JavaScript Backend (Node.js basics)</li>
   <li>🔐 Cybersecurity fundamentals</li>
   <li>📊 Git & version control workflows</li>
@@ -56,7 +56,6 @@
 
 <ul>
   <li>🧮 Physics Calculator (school formulas, continuously updated)</li>
-  <li>🎬 Animations with Manim</li>
   <li>🧠 Small backend & logic-focused projects</li>
 </ul>
 
