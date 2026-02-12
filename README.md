@@ -3,7 +3,7 @@
   <h1>👋 Hi, I'm Pepe</h1>
 
   <p>
-    A student who enjoys learning <strong>programming</strong>
+    A <strong>german</strong> student who enjoys learning <strong>programming</strong>
     and understanding how things work under the hood.
   </p>
 
@@ -22,7 +22,7 @@
   <li>📚 Student interested in programming</li>
   <li>💻 Learning Python & JavaScript</li>
   <li>🔐 Interested in backend development & cybersecurity</li>
-  <li>🛠️ Building projects to understand concepts deeply</li>
+  <li>🛠️ Building projects to understand concepts more deeply</li>
 </ul>
 
 ---
