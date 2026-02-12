@@ -3,7 +3,7 @@
   <h1>👋 Hi, I'm Pepe</h1>
 
   <p>
-    A <strong>german</strong> student who enjoys learning <strong>programming</strong>
+    A german student who enjoys learning <strong>programming</strong>
     and understanding how things work under the hood.
   </p>
 
