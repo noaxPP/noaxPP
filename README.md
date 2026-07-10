@@ -8,8 +8,7 @@
   </p>
 
   <p>
-    🚀 Learning by building real projects <br>
-    🧠 Not copying code – understanding it
+    🚀 Learning by building real projects
   </p>
 
 </div>
