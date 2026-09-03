@@ -15,18 +15,18 @@
 
 ---
 
-<h2>🧩 About Me</h2>
+<h2>About Me</h2>
 
 <ul>
-  <li>📚 Student interested in programming</li>
-  <li>💻 Learning Python & JavaScript</li>
-  <li>🔐 Interested in backend development & cybersecurity</li>
-  <li>🛠️ Building projects to understand concepts more deeply</li>
+  <li>Student interested in programming</li>
+  <li>Learning Python & JavaScript</li>
+  <li>Interested in backend development & cybersecurity</li>
+  <li>Building projects to understand concepts more deeply</li>
 </ul>
 
 ---
 
-<h2>⚙️ Technologies & Tools</h2>
+<h2>Technologies & Tools</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -39,28 +39,27 @@
 
 ---
 
-<h2>📚 Currently Learning</h2>
+<h2>Currently Learning</h2>
 
 <ul>
-  <li>🐍 Python (logic, automation)</li>
-  <li>🌐 JavaScript Backend (Node.js basics)</li>
-  <li>🔐 Cybersecurity fundamentals</li>
-  <li>📊 Git & version control workflows</li>
-  <li>🧮 Applying programming to physics problems</li>
+  <li>Python (logic, automation)</li>
+  <li>Cybersecurity fundamentals</li>
+  <li>Git & version control workflows</li>
+  <li>Applying programming to physics problems</li>
 </ul>
 
 ---
 
-<h2>📌 Current Projects</h2>
+<h2>Current Projects</h2>
 
 <ul>
-  <li>🧮 Physics Calculator (school formulas, continuously updated)</li>
-  <li>🧠 Small backend & logic-focused projects</li>
+  <li>Physics Calculator (school formulas, continuously updated)</li>
+  <li>Small backend & logic-focused projects</li>
 </ul>
 
 ---
 
-<h2>🎯 Goals</h2>
+<h2>Goals</h2>
 
 <ul>
   <li>Build a strong programming foundation</li>
